@@ -400,7 +400,7 @@ foreach ($sectors as $sector) {
 <body>
 
 <section>
-    <h3>Please enter your name and pick the Sectors you are currently involved in.</h3>
+    <h3>Please enter your name and pick the sector you are currently involved in.</h3>
     <!-- Form for user data -->
     <form method="POST">
         <label for="name">Name: </label>
