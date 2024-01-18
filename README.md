@@ -17,4 +17,4 @@ The application is now ready to use. Go to your localhost URL `http://localhost/
 
 ### Live application
 
-Live application is located at `https://kexdev.ee/php-userform/`. 
+Live application is located at https://kexdev.ee/php-userform/. 
